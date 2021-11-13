@@ -1,0 +1,1 @@
+import{_ as e}from"./index.197cb5af.js";import{o as t,c as o}from"./vendor.f382a0c1.js";const s={},a={class:"text-xl"};function c(r,n,_,f,p,m){return t(),o("h2",a,"Meet the team")}var l=e(s,[["render",c]]);export{l as default};
